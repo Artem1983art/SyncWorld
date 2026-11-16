@@ -9,9 +9,9 @@ http.createServer((req, res) => {
 
 function startBot() {
   const client = bedrock.createClient({
-    host: 'IP_ВАШЕГО_СЕРВЕРА', // Например: myserver.aternos.me
+    host: 'Lifeworld.mcsh.gg', // Например: myserver.aternos.me
     port: 19132,               // Порт сервера
-    username: 'AFK_Bot',       // Имя бота
+    username: 'kriper2004',       // Имя бота
     offline: true              // Без входа в Microsoft
   });
 
